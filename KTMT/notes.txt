@@ -1,0 +1,16 @@
+# Kiến trúc Máy tính & Hệ điều hành
+
+Kho lưu trữ tài liệu học tập, bài tập thực hành và mã nguồn các nội dung liên quan đến Kiến trúc máy tính và Hệ điều hành.
+
+## Nội dung chính
+* **Kiến trúc máy tính:** 
+  * Tập lệnh Assembly (8086), sơ đồ mở rộng chip nhớ.
+  * Cấu trúc CPU, tập lệnh và các thành phần phần cứng.
+* **Hệ điều hành:**
+  * Thuật toán điều phối CPU (Round Robin, SRTF, ...).
+  * Quản lý tiến trình, luồng và khối điều khiển tiến trình (PCB).
+  * Quản lý bộ nhớ và hệ thống tệp.
+
+## Mục tiêu
+* Lưu trữ bài tập lập trình, giải bài toán kiến trúc và hệ điều hành.
+* Ôn tập kiến thức phục vụ các kỳ thi giữa kỳ và cuối kỳ.
